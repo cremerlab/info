@@ -1,0 +1,14 @@
+*.pdf
+*.xlsx*
+*.swp
+*.bbl
+*.aux
+*.log
+*.DS_*tore
+*.tif*
+*.jpg
+*.jpeg
+*checkpoints*
+*.hpp
+*.pyc
+*.egg-info
